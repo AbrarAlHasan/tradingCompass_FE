@@ -43,3 +43,9 @@ To set up the development environment for Trading Compass, follow these steps:
 
    ```bash
    git clone https://github.com/YourUsername/tradingCompass_FE.git
+
+   ```
+
+2. Run the App:
+
+   npm run dev
