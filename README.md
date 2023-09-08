@@ -3,7 +3,7 @@
 Welcome to Trading Compass!
 
 **Project Stage**: Early Development (Project Scope may expand in the future)
-https://www.figma.com/file/00l9a5x0CtpQi2HbDidyjR/Trading-Compass?type=design&mode=design&t=U0ujfTAPBz3F4hPv-1
+[Figma Designs](https://www.figma.com/file/00l9a5x0CtpQi2HbDidyjR/Trading-Compass?type=design&mode=design&t=U0ujfTAPBz3F4hPv-1)
 
 Trading Compass is an ambitious project aimed at empowering traders with comprehensive trade analysis tools and insights to enhance their trading performance. It's currently in its initial stage, and we're excited to have you join us on this journey.
 
