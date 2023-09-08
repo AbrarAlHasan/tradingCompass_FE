@@ -2,6 +2,9 @@
 
 Welcome to Trading Compass!
 
+![Dashboard](https://github.com/AbrarAlHasan/tradingCompass_FE/assets/97493892/2f6dc641-7a1b-40cd-a775-5bf8994823e0)
+
+
 **Project Stage**: Early Development (Project Scope may expand in the future)
 [Figma Designs](https://www.figma.com/file/00l9a5x0CtpQi2HbDidyjR/Trading-Compass?type=design&mode=design&t=U0ujfTAPBz3F4hPv-1)
 
